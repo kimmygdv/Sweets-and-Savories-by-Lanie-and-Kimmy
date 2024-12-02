@@ -1,0 +1,221 @@
+<html>
+	<head>
+		<title>Sweets and Savories</title>
+		<style type="text/css">
+            
+
+            
+		.logo, .menu, .banner, .about-us, .menu, .order {
+            
+			width: 100%;
+			height: auto;
+			margin-top: 10px;
+			text-align: center;
+		}
+		
+        
+		.logo img {
+			width: 80px;
+			height: 80px;
+		}
+
+		.menu a, .order a {
+            
+			margin-left: 20px;
+			margin-right: 20px;
+			font-family: Arial;
+			text-transform: uppercase;
+			text-decoration: none;
+			color: #000;
+		}
+		
+		.menu a:hover{
+			text-decoration: underline;
+		}
+
+		.banner img {
+			width: 100%;
+		}
+
+		.about-us h2, .about-us p, .menu h2, .menu ul li {
+			font-family: Arial;
+			color: #000;
+		}
+
+		.menu ul li {
+			margin-top: 20px;
+			list-style-type: none;
+		}
+
+		.order {
+			margin-bottom: 50px;
+		}
+
+        
+		</style>
+
+	</head>
+	<body>
+        <body style="background-color: #ffcbcb;">
+            
+		<div class="logo" id="top">
+			<img src="images/circle_logo_pink.png" />
+		</div>
+         
+
+       
+		<div class="menu">
+
+			<a href="#top">home</a> | 
+			<a href="#menu">menu</a> | 
+            <a href="#about">about us</a> | 
+			<a href="#order">how to order</a>
+            <br>
+		</div>
+         
+
+
+        <div class="banner2">
+            <style>
+                   .banner2 {
+                       background-color: #ff7b00; 
+                       padding: 3px;
+                       text-align: center;
+                   }
+           
+                   @media (max-width: 768px) {
+                       .banner2 
+                   }
+               </style>
+               </div>
+
+		<div class="banner" id="cookies">
+			<img src="images/cookies.jpg" />
+		</div>
+
+ <div class="banner3">
+            <style>
+                   .banner3 {
+                       background-color: #ff7b00; 
+                       padding: 2px;
+                       text-align: center;
+                   }
+           
+                   @media (max-width: 768px) {
+                       .banner3 
+                   }
+               </style>
+               </div>
+               
+		<div class="menu" id="menu">
+            <h1>Menu</h1>   
+            <div class="banner3">
+            <style>
+                   .banner3 {
+                       background-color: #ff7b00; 
+                       padding: 2px;
+                       text-align: center;
+                   }
+           
+                   @media (max-width: 768px) {
+                       .banner3 
+                   }
+               </style>
+               </div>
+            <style>
+                .nav {
+                    background-color: #ff6f00;
+                    color: #FFFFFF;
+                    padding: 20px;
+                    text-align: center;
+                }
+            </style>
+
+            
+             <h2>Our Sweets</h2>
+             
+            Banana Cake - 300
+            <br>Chocolate Cake - 350
+            <br>Brownies (6pcs)- 200
+            <br>Chocolate chip cookies (half dozen) - 250
+            <br>Double Chocolate Chip Cookies (half dozen) - 250
+            <br>Red Velvet and cream cheese cookies(half dozen) - 250
+           
+          
+        <h2>Our Savories</h2>
+       Focaccia - 200
+        <br>Pesto Focaccia - 250
+        <br>French Baguette - 200
+        <br> Empanadas (5pcs) - 160
+            <br>Stuffed bread Rolls (6pcs) - 200
+            
+        
+
+        <i><h4><p style="color:red;">*Please note that all items on the menu are pre-order basis only*</p></h4></i>
+    </div>
+
+    <div class="banner3">
+            <style>
+                   .banner3 {
+                       background-color: #ff7b00; 
+                       padding: 2px;
+                       text-align: center;
+                   }
+           
+                   @media (max-width: 768px) {
+                       .banner3 
+                   }
+               </style>
+               </div>
+		<div class="banner">
+			<img src="images/banana_cake.jpg" />
+		</div>
+        <div class="banner3">
+            <style>
+                   .banner3 {
+                       background-color: #ff7b00; 
+                       padding: 2px;
+                       text-align: center;
+                   }
+           
+                   @media (max-width: 768px) {
+                       .banner3 
+                   }
+               </style>
+               </div>
+        <div class="about-us" id="about">
+			<h2>About us:</h2>
+<p>Sweets & Savories by Lanie & Kimmy  is a home based business in Paranaque that was started by the mother and daughter duo, during the pandemic with their love for food and sharing it with people.</p>
+
+<h2>Who are we?</h2>
+<p>We are a mother daughter duo, that just loves food and feeding people. Sweets & Savories was started with our love for food and cooking. We loved playing around in the kitchen and with flavor combinations to see what we could come up with. We loved sharing this passion with our friends and family as well. During the pandemic, we thought why not start this business so we can share our passion for food with others as well.</p>
+
+<h2>Our Logo</h2>
+<p>The letter S that represents both sweets and savories. The swirl conveys the sweets while the bottom part is the ladle that represents the savory dishes.</p>
+		</div>
+       
+<div class="banner2">
+ <style>
+        .banner2 {
+            background-color: #ff7b00; 
+            color: #FFFFFF; 
+            padding: 1px;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .banner2 {
+                font-size: 20px;
+            }
+        }
+    </style>
+    
+</div>
+		<div class="order" id="order">
+			<h2>How to order</h2>
+			<a href="https://www.facebook.com/SweetsandSavories.Official" target="_blank">Facebook</a>
+			<a href="https://www.instagram.com/sweetsandsavories_official" target="_blank">Instagram</a>
+		
+        </div>
+	</body>
+</html>
